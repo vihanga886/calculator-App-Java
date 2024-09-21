@@ -23,22 +23,6 @@ This is a simple calculator application built using Java Swing. The app allows u
 - Java Development Kit (JDK) installed
 - Java IDE (e.g., IntelliJ IDEA, Eclipse) or command line tools
 
-### Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/calculator-app.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd calculator-app
-    ```
-3. Open the project in your preferred Java IDE or compile and run using the command line:
-    ```sh
-    javac Calculator.java
-    java Calculator
-    ```
-
 ## Usage
 
 - Enter numbers using the buttons on the GUI.
