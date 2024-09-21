@@ -1,9 +1,6 @@
 # Calculator App
 ![Screenshot 2024-09-21 182610](https://github.com/user-attachments/assets/b19c73fc-71ef-42df-8949-1b20c502237d)
 
-# From the development stage...
-![Screenshot (36)](https://github.com/user-attachments/assets/a92bcb18-64c3-4ba3-b588-4a2d02dc1101)
-
 This is a simple calculator application built using Java Swing. The app allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division. It features a user-friendly graphical interface for easy interaction.
 
 ## Features
@@ -25,6 +22,9 @@ This is a simple calculator application built using Java Swing. The app allows u
 
 - Java Development Kit (JDK) installed
 - Java IDE (eg-Netbeans, IntelliJ IDEA, Eclipse) or command line tools
+
+  # From the development stage...
+![Screenshot (36)](https://github.com/user-attachments/assets/a92bcb18-64c3-4ba3-b588-4a2d02dc1101)
 
 ## Usage
 
