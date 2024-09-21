@@ -23,7 +23,7 @@ This is a simple calculator application built using Java Swing. The app allows u
 - Java Development Kit (JDK) installed
 - Java IDE (eg-Netbeans, IntelliJ IDEA, Eclipse) or command line tools
 
-  # From the development stage...
+## From the development stage...
 ![Screenshot (36)](https://github.com/user-attachments/assets/a92bcb18-64c3-4ba3-b588-4a2d02dc1101)
 
 ## Usage
@@ -32,7 +32,6 @@ This is a simple calculator application built using Java Swing. The app allows u
 - Select the desired arithmetic operation.
 - Press the "=" button to see the result.
 - Use the "C" button to clear the current input.
-- Use the "Reset" button to reset the calculator.
 
 ## Contributing
 
